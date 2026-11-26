@@ -1,6 +1,6 @@
 cask "teleclip" do
-  version "1.1.0"
-  sha256 "11f8ce0ef86c442f42ebefbd62051c48cfd2ab55cbec00e0acb11cbb95e867eb"
+  version "1.2.0"
+  sha256 "ca518102fec5179e5726df3bc63382f7bcdd2535e77be748d0ea0bd26642c81b"
 
   url "https://github.com/parktaeyang/Teleclip/releases/download/v#{version}/Teleclip-#{version}.zip"
   name "Teleclip"
